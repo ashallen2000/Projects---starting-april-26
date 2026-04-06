@@ -1,3 +1,7 @@
+:root {
+    box-sizing: border-box;
+}
+
 caption {
     font-family: 'Roboto', sans-serif;
     font-size: 1.25em;
@@ -12,4 +16,11 @@ th, td {
     font-family: 'Roboto', sans-serif;
     padding: 10px;
     color: #64748b;
+    border-radius: 10px;
+}
+
+th {
+    background-color: #f1f5f9;
+    color: #0f172a;
+    border-radius: 10px;
 }
