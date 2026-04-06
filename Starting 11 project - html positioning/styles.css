@@ -8,7 +8,9 @@
 
 .pitch {
     position: relative;
-    margin: auto
+    margin: auto;
+    width: 1000px;
+    height: 1200px;
 }
 
 .players {
