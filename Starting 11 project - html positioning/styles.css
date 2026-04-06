@@ -1,0 +1,19 @@
+.pitch {
+    background-color: green;
+    position: relative;
+    height: 1000px;
+    width: 800px
+}
+
+.players {
+    position: absolute;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+#forward1 {
+    top: 15%
+}
