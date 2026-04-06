@@ -1,19 +1,29 @@
 .pitch {
     background-color: green;
-    position: relative;
     height: 1000px;
-    width: 800px
+    width: 800px;
+    position: relative;
+}
+
+
+.pitch {
+    position: relative;
 }
 
 .players {
     position: absolute;
 }
 
+#forward1 {
+    top: 10px;
+    left:200px
+}
+
+#forward2 {
+    left:400px;
+}
+
 
 h1 {
     text-align: center;
-}
-
-#forward1 {
-    top: 15%
 }
